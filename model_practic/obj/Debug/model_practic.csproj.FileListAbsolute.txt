@@ -1,0 +1,10 @@
+E:\dbms\model_practic\bin\Debug\model_practic.exe.config
+E:\dbms\model_practic\bin\Debug\model_practic.exe
+E:\dbms\model_practic\bin\Debug\model_practic.pdb
+E:\dbms\model_practic\obj\Debug\model_practic.csproj.AssemblyReference.cache
+E:\dbms\model_practic\obj\Debug\model_practic.Form1.resources
+E:\dbms\model_practic\obj\Debug\model_practic.Properties.Resources.resources
+E:\dbms\model_practic\obj\Debug\model_practic.csproj.GenerateResource.cache
+E:\dbms\model_practic\obj\Debug\model_practic.csproj.CoreCompileInputs.cache
+E:\dbms\model_practic\obj\Debug\model_practic.exe
+E:\dbms\model_practic\obj\Debug\model_practic.pdb

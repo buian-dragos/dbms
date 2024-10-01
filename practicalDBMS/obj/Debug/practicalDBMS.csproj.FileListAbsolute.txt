@@ -1,0 +1,10 @@
+E:\dbms\practicalDBMS\bin\Debug\practicalDBMS.exe.config
+E:\dbms\practicalDBMS\bin\Debug\practicalDBMS.exe
+E:\dbms\practicalDBMS\bin\Debug\practicalDBMS.pdb
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.csproj.AssemblyReference.cache
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.Form1.resources
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.Properties.Resources.resources
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.csproj.GenerateResource.cache
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.csproj.CoreCompileInputs.cache
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.exe
+E:\dbms\practicalDBMS\obj\Debug\practicalDBMS.pdb
